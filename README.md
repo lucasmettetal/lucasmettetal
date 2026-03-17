@@ -52,6 +52,7 @@ Multiple projects focused on:
 ## 📫 Contact
 
 * GitHub: https://github.com/lucasmettetal
+* LinKedIn: https://www.linkedin.com/in/lucas-mettetal-a079a8388/
 
 ---
 
