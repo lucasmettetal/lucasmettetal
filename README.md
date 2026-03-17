@@ -1,16 +1,60 @@
-## Hi there 👋
+# 👋 Hi, I'm Lucas Mettetal
 
-<!--
-**lucasmettetal/lucasmettetal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm currently training in **Web Development** and transitioning into **Cybersecurity**.
+I enjoy building projects from scratch and understanding how systems work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+
+* HTML / CSS (in progress)
+* JavaScript (learning)
+* Git & GitHub
+* Linux basics
+* Networking fundamentals
+* Cybersecurity fundamentals
+
+---
+
+## 🛠️ Projects
+
+### 🏡 HBNB - HTML Advanced
+
+A full webpage built using **semantic HTML only**, including:
+
+* Page structure (header, sections, footer)
+* Images, video, and audio integration
+* SVG icons
+* Clean and organized code
+
+### 🌐 Web Front-End Projects
+
+Multiple projects focused on:
+
+* HTML structure
+* Accessibility
+* Best practices
+* Progressive building (task-based learning)
+
+---
+
+## 🎯 Current Goals
+
+* Improve my **front-end development skills**
+* Start building **real-world projects**
+* Learn **cybersecurity fundamentals**
+* Understand how web applications work deeply
+
+---
+
+## 📫 Contact
+
+* GitHub: https://github.com/lucasmettetal
+
+---
+
+## ⚡ Fun Fact
+
+I like understanding how things work, not just using them.
