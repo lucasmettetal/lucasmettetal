@@ -55,7 +55,17 @@ Multiple projects focused on:
 * LinKedIn: https://www.linkedin.com/in/lucas-mettetal-a079a8388/
 
 ---
+## 🎓 Education
 
-## ⚡ Fun Fact
+**Holberton School** *(in progress)*
+Web Front-End Development
 
-I like understanding how things work, not just using them.
+* HTML, CSS, JavaScript
+* Project-based approach (Airbnb clone - HBNB)
+
+**Cybersecurity (Self-taught)**
+
+* Networking fundamentals
+* Linux systems
+* Security basics
+
