@@ -104,10 +104,10 @@ Networking fundamentals applied: OSI model, IP/TCP, DNS, ports — with hands-on
 **[Rue25](https://github.com/lucasmettetal/Rue25.fr)** *(school project — deployed)*  
 E-commerce platform for an artisan clothing brand. Full-stack: **React + TypeScript + Vite + Tailwind CSS** frontend, **Node.js + Express** backend, **Prisma ORM** with PostgreSQL, **Stripe** payment integration, **Docker** for local orchestration. Includes product catalog, cart, order management and an admin seed.
 
-**Espace Ködörö** *(private — code available on request)*  
+**[Espace Ködörö](https://github.com/lucasmettetal/Espace-kodoro)**  
 Site vitrine + reservation tunnel for a gaming venue, with **Stripe** payment integration. Stack: **React + TypeScript + Vite**, **Cloudflare Pages Functions**, **Cloudflare D1** (SQLite), **Resend** for transactional emails. Fully deployed in production.
 
-**Lycan-Master** *(private — code available on request)*  
+**[Lycan-Master](https://github.com/lucasmettetal/Lycan-Master)**  
 Real-time **Werewolf** game manager — game master on main screen, players on mobile. Stack: **React + Vite** frontend, **Node.js + Express + Socket.io** backend for live private actions and game state. Future Android app via **Capacitor**.
 
 **[holbertonschool-simple_shell](https://github.com/lucasmettetal/holbertonschool-simple_shell)**  
