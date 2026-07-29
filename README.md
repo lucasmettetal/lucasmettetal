@@ -1,15 +1,15 @@
 # Lucas Mettetal
 
-### System Administrator & Developer | Seeking Apprenticeship (Alternance)
+### Full-Stack Developer (React · Node.js · Python) | Seeking Apprenticeship (Alternance)
 
-> Finishing **Holberton School** (RNCP5) — admitted to **Epitech Bachelor** starting September 2026.  
-> Actively looking for an **alternance** in **Development** or **System Administration / Infrastructure** (12 months, 3 weeks on-site / 1 week at school).
+> Finishing **Holberton School** — RNCP 5 title in progress (exam session October 2026) — admitted to **Epitech Bachelor** starting September 2026.  
+> Actively looking for an **alternance in software development** — full-stack, backend, Python (12 months, extensible up to 2 more years toward Bac+5 — 3 weeks in-company / 1 week at school).
 
 ---
 
 ## About Me
 
-I'm a motivated tech student with a strong interest in how systems work — from infrastructure and networking to web applications. I'm building hands-on experience in both **system administration** (Linux, networking, scripting) and **web development** (React, Node.js, Python), while also deepening my understanding of cybersecurity.
+I'm a career changer (13 years in professional kitchens) building solid, hands-on experience in **web development** — React, Node.js, Python, PostgreSQL, Docker — with an e-commerce platform running in production. Linux, scripting and application security are complementary skills I use daily to write more robust code.
 
 I learn fast, work well in team environments, and enjoy solving real-world technical problems.
 
@@ -17,8 +17,8 @@ I learn fast, work well in team environments, and enjoy solving real-world techn
 
 ## Currently Looking For
 
-**Alternance — Development or System Administration / Infrastructure**  
-Available: **September 2026** | Based in **Caussade (82)** — open to travel | 12 months | Rythme: 3 weeks on-site / 1 week at school
+**Alternance — Software Development (full-stack, backend, Python)**  
+Available: **September 2026** | Based in **Caussade (82)** — Montauban / Toulouse / remote | 12 months, extensible up to Bac+5 | Rythme: 3 weeks in-company / 1 week at school
 
 If you're looking for a motivated, curious, and hard-working apprentice — let's talk.
 
@@ -26,38 +26,37 @@ If you're looking for a motivated, curious, and hard-working apprentice — let'
 
 ## Skills
 
-### System Administration & Networking
+### Development
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+- JavaScript / TypeScript — DOM, async, React components
+- React + Vite + Tailwind CSS — modern front-end development
+- Node.js + Express — REST API, middleware, JWT authentication
+- Python — scripting, automation, OOP, Streamlit UI
+- Prisma ORM — database modeling, migrations, seeding
+- C — low-level programming, memory management, systems programming
+- HTML5 / CSS3 — semantic markup, responsive design
+- Version control with Git & GitHub
+
+### Linux & Systems (complementary skills)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Networking](https://img.shields.io/badge/TCP%2FIP%20%7C%20DNS%20%7C%20DHCP-0078D4?style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- Linux system administration (file system, permissions, processes, services)
-- Networking fundamentals: TCP/IP, DNS, DHCP, VLANs
+- Linux (file system, permissions, processes, services)
 - Bash scripting for automation
 - Docker — containerization and service orchestration
-- Virtualization basics (VirtualBox)
-
-### Development
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-- C — low-level programming, memory management, systems programming
-- Python — scripting, automation, OOP, Streamlit UI
-- JavaScript / TypeScript — DOM, async, React components
-- React + Vite + Tailwind CSS — modern front-end development
-- Node.js + Express — REST API, middleware, JWT authentication
-- Prisma ORM — database modeling, migrations, seeding
-- HTML5 / CSS3 — semantic markup, responsive design
-- Version control with Git & GitHub
+- Networking fundamentals: TCP/IP, DNS, DHCP
 
 ### Security
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%206%25-212C42?style=flat&logo=tryhackme&logoColor=white)
@@ -80,29 +79,10 @@ Local prospecting tool to find IT companies likely to hire apprentices around Ca
 
 ---
 
-### System & Infrastructure
-
-**[holbertonschool-system_engineering-devops](https://github.com/lucasmettetal/holbertonschool-system_engineering-devops)**  
-Shell scripting, process management, web stack debugging, networking configuration, and DevOps practices. Covers real sysadmin scenarios: SSH, web servers, load balancing, monitoring.
-
-**[holbertonschool-softy-pinko-docker](https://github.com/lucasmettetal/holbertonschool-softy-pinko-docker)**  
-Full containerization of a web application using **Docker** — frontend, backend and reverse proxy orchestrated across multiple tasks.
-
-**[holbertonschool-shell](https://github.com/lucasmettetal/holbertonschool-shell)**  
-Deep dive into shell scripting: permissions, I/O redirections, pipes, filters, variables and expansions — written for real UNIX environments.
-
-**[My-Script-Bash](https://github.com/lucasmettetal/My-Script-Bash)**  
-Personal collection of Bash automation scripts — project initializers and shell utilities written for daily use.
-
-**[holbertonschool-network](https://github.com/lucasmettetal/holbertonschool-network)**  
-Networking fundamentals applied: OSI model, IP/TCP, DNS, ports — with hands-on configuration exercises.
-
----
-
 ### Development
 
-**[Rue25](https://github.com/lucasmettetal/Rue25.fr)** *(school project — deployed)*  
-E-commerce platform for an artisan clothing brand. Full-stack: **React + TypeScript + Vite + Tailwind CSS** frontend, **Node.js + Express** backend, **Prisma ORM** with PostgreSQL, **Stripe** payment integration, **Docker** for local orchestration. Includes product catalog, cart, order management and an admin seed.
+**[Rue25](https://github.com/lucasmettetal/Rue25.fr)** *(deployed in production — [rue25.fr](https://rue25.fr))*  
+E-commerce platform for an artisan clothing brand. Full-stack: **React + Vite + Tailwind CSS** frontend, **Node.js + Express** backend, **Prisma ORM** with PostgreSQL, **Stripe** payment integration, **Docker** for local orchestration. Includes product catalog, cart, order management and an admin dashboard.
 
 **[Espace Ködörö](https://github.com/lucasmettetal/Espace-kodoro)**  
 Site vitrine + reservation tunnel for a gaming venue, with **Stripe** payment integration. Stack: **React + TypeScript + Vite**, **Cloudflare Pages Functions**, **Cloudflare D1** (SQLite), **Resend** for transactional emails. Fully deployed in production.
@@ -121,6 +101,25 @@ Personal fitness tracking web app built with **React + TypeScript + Vite + Tailw
 
 **[holbertonschool-hbnb](https://github.com/lucasmettetal/holbertonschool-hbnb)**  
 Full-stack Airbnb clone — from semantic HTML/CSS front-end to back-end logic and REST API. Collaborative project following real-world software engineering practices.
+
+---
+
+### System & Infrastructure (complementary)
+
+**[holbertonschool-system_engineering-devops](https://github.com/lucasmettetal/holbertonschool-system_engineering-devops)**  
+Shell scripting, process management, web stack debugging, networking configuration, and DevOps practices. Covers real sysadmin scenarios: SSH, web servers, load balancing, monitoring.
+
+**[holbertonschool-softy-pinko-docker](https://github.com/lucasmettetal/holbertonschool-softy-pinko-docker)**  
+Full containerization of a web application using **Docker** — frontend, backend and reverse proxy orchestrated across multiple tasks.
+
+**[holbertonschool-shell](https://github.com/lucasmettetal/holbertonschool-shell)**  
+Deep dive into shell scripting: permissions, I/O redirections, pipes, filters, variables and expansions — written for real UNIX environments.
+
+**[My-Script-Bash](https://github.com/lucasmettetal/My-Script-Bash)**  
+Personal collection of Bash automation scripts — project initializers and shell utilities written for daily use.
+
+**[holbertonschool-network](https://github.com/lucasmettetal/holbertonschool-network)**  
+Networking fundamentals applied: OSI model, IP/TCP, DNS, ports — with hands-on configuration exercises.
 
 ---
 
@@ -146,7 +145,7 @@ Rank **[0x8] HACKER** — **top 6%** worldwide | **71 rooms** completed | **84-d
 *Bachelor Informatique — 3ème année (Bac+3)*
 
 **Holberton School** *(finishing 2026)*  
-*Web & Full-Stack Development — RNCP5 (Bac+2)*
+*Web & Full-Stack Development — RNCP 5 title in progress, exam session October 2026 (Bac+2)*
 
 - HTML, CSS, JavaScript, Python, C
 - Linux command line, Git workflows
