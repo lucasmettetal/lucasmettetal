@@ -9,7 +9,7 @@
 
 ## About Me
 
-I'm a career changer (13 years in professional kitchens) building solid, hands-on experience in **web development** — React, Node.js, Python, PostgreSQL, Docker — with an e-commerce platform running in production. Linux, scripting and application security are complementary skills I use daily to write more robust code.
+I'm a career changer (11 years in bakeries and professional kitchens) building solid, hands-on experience in **web development** — React, Node.js, Python, PostgreSQL, Docker — with an e-commerce platform running in production. Linux, scripting and application security are complementary skills I use daily to write more robust code.
 
 I learn fast, work well in team environments, and enjoy solving real-world technical problems.
 
